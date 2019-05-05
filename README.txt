@@ -1,7 +1,9 @@
 # Exercise-4
 Exercise 4: Windows problem solving
 
-TroubleShooting Steps Folowed
+TroubleShooting Windows IIS Issue
+
+Below are the troubleshooting steps followed.
 
 1) RDP to the VM
 2) checked browsing  http://localhost/   and received 503 exception, which was expected.
